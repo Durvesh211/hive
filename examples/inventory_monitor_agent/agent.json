@@ -1,0 +1,8 @@
+
+{
+  "name": "inventory_monitor_agent",
+  "description": "An AI agent that monitors inventory levels and reports low stock items.",
+  "entry": "agent.py",
+  "version": "1.0",
+  "author": "Durvesh Hedau"
+}
